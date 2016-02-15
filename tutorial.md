@@ -1,6 +1,6 @@
-# Practica 1. Tutorial  
+# Práctica 1. Tutorial  
 
-A continuacion encontramos un pequeño tutorial que recoge los primeros pasos en **Procesadores de Lenguaje**. Ademas, abarca la instalacion y puesta en marcha del conjunto de ***herramientas*** con las que trabajaremos este curso:
+A continuación encontramos un pequeño tutorial que recoge los primeros pasos en **Procesadores de Lenguaje**. Además, abarca la instalación y puesta en marcha del conjunto de ***herramientas*** con las que trabajaremos este curso:
 
   1. Node.JS
   2. express
@@ -12,18 +12,18 @@ A continuacion encontramos un pequeño tutorial que recoge los primeros pasos en
 
 ### Instalacion node.JS
 
-  Node.js es un entorno *Javascript* del lado del servidor, *basado en eventos*. Aprovechando el motor V8, node proporciona un entorno de ejecucion del lado del servidor que compila y ejecuta javascript a **altas velocidades**, permitiendo desarrollar aplicaciones con multiples conexiones simultaneas.
+  Node.js es un entorno *Javascript* del lado del servidor, *basado en eventos*. Aprovechando el motor V8, node proporciona un entorno de ejecución del lado del servidor que compila y ejecuta javascript a **altas velocidades**, permitiendo desarrollar aplicaciones con múltiples conexiones simultáneas.
 
-  Para instalar **node.js**, necesitamos descargar el paquete para la plataforma requeridaa:  [nodejs](https://nodejs.org/en/).
+  Para instalar **node.js**, necesitamos descargar el paquete para la plataforma requerida:  [nodejs](https://nodejs.org/en/).
 
- En windows, una vez descargado y realizados los pasos del asistente de instalacion obtenemos la siguiente consola de comandos.
+ En windows, una vez descargado y realizados los pasos del asistente de instalación obtenemos la siguiente consola de comandos.
 
- ![](http://i64.tinypic.com/11qps9d.png "Título de la imagen")
+ ![](http://i64.tinypic.com/11qps9d.png)
 
 
 ### Instalacion express
 
-  **Express** es una infraestructura de aplicaciones web *Node.js* mínima y flexible. que proporciona un conjunto sólido de características para las aplicaciones web y móviles.
+  **Express** es una infraestructura de aplicaciones web *Node.js* mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles.
 
   Instalamos **express** en node.JS con el comando
 
@@ -149,4 +149,4 @@ Incluimos nuestro tutorial y elegimos el **tema** que deseemos aplicar. Ahora en
 
 Más información en [GitHub Pages](https://pages.github.com/).
 
-> Si deseas contactar [contactar](https://plus.google.com/u/1/108254120853355124901) conmigo o escribirme cualquier sugerencia.
+> Si deseas contactar [contactar](https://plus.google.com/u/1/108254120853355124901) conmigo o escribirme cualquier sugerencia. -Cristina Tosco González
